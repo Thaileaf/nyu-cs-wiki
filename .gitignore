@@ -22,3 +22,5 @@ yarn-error.log*
 
 # packages.md is generated during build time and not necessary to check in
 docs/packages.md
+
+*.swp
